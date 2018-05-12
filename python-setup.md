@@ -61,6 +61,14 @@ criar arquivos `.ipynb`) com o seguinte comando:
 jupyter notebook
 ``` 
 
+### MacOS
+
+1. Baixe o instalador do Anaconda na sua [página](https://www.anaconda.com/download/)
+oficial.
+
+2. Inicie a instalação clicando duas vezes sobre o arquivo `Anaconda3-5.1.0-MacOSX-x86_64.sh`
+e siga as instruções apresentadas na tela.
+
 ### Local
 
 ```
